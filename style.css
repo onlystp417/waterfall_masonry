@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.book {
+  display: block;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+.book:hover {
+  background-color: #aaa;
+}
+
+.book-photo img{
+  width: 100%;
+}
+
+
